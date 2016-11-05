@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=no" />
+	<title>贪吃蛇</title>
+	<script src="http://web.ganjiacheng.cn/jquery-3.1.1.min.js"></script>
+	<style type="text/css">
+		html,body{
+			width: 100%;
+			height: 100%;
+		}
+		canvas{
+			border:solid 1px #000;
+		}
+		.movedail{
+			position: absolute;
+			bottom: 200px;
+			left:200px;
+			width: 50px;
+			height: 50px;
+			border: solid 5px #000;
+			border-radius: 50px;
+		}
+	</style>
+</head>
+<body>
+	<canvas id="Canvas"></canvas>
+	<div id="divmove" class="movedail"></div>
+	<script type="text/javascript">
+		var can=document.getElementById("Canvas");
+		var con=can.getContext("2d");
+		var w=document.body.clientWidth-20;
+		var h=document.body.clientHeight-20;
+		document.getElementById("Canvas").width=w;
+		document.getElementById("Canvas").height=h;
+		var nav=document.getElementById("divmove");
+		var x0=nav.offsetLeft,y0=nav.offsetTop;
+		var snake=[],food=[];
+		var r=1,timec=0;
+		//初始化蛇和食物位置数组
+		$(function(){
+			for(var i=10;i>0;i--){
+				snake.push([3*i,4*i]);
+				var xfood=Math.floor(Math.random()*w);
+				var yfood=Math.floor(Math.random()*h);
+				food.push([xfood,yfood]);
+			}
+				console.log(snake);
+		});
+		//设置滑屏div动起来的效果
+		$("#divmove").on("touchmove",function(e){
+			e.preventDefault();
+			x0=e.touches[0].clientX-25;
+			y0=e.touches[0].clientY-25;
+			$("#divmove").css({
+				'left': e.touches[0].clientX-25,
+				'top': e.touches[0].clientY-25
+			});
+		});
+		//移除浏览器默认上下移
+		$("body").on("touchmove",function(e){
+				e.preventDefault();
+			});
+		//画食物
+		function drawfood(){
+			for(i in food){
+				con.beginPath();
+				con.arc(food[i][0],food[i][1],3,0,2*Math.PI,false);
+				con.stroke();
+			}
+		}
+		//画蛇
+		function draw(){
+			con.clearRect(0,0,w,h);
+			con.beginPath();
+			con.lineWidth="6";
+			con.lineJoin="round";
+			con.lineCap="round";
+			con.strokeStyle="#000";
+			con.moveTo(snake[0][0],snake[0][1]);
+			for(var i=0;i<snake.length;i++){
+				con.lineTo(snake[i][0],snake[i][1]);
+			}
+			for(i in food){
+				if(Math.abs(snake[0][0]-food[i][0])<=3&&Math.abs(snake[0][1]-food[i][1])<=3){
+					food.splice(i,1);
+					food.push([Math.floor(Math.random()*w),Math.floor(Math.random()*h)]);
+					var len=snake.length;
+					for(var j=0;j<10;j++){
+						snake.push([snake[len-1][0]-3*j,snake[len-1][1]-4*j]);
+					}
+				}
+			}
+			con.stroke();
+		}
+		//改变数组让蛇动起来
+		//设置蛇头进入div最大限制时间
+		function chArr(){
+			if(r){
+				var rr=5/Math.sqrt((x0+22-snake[0][0])*(x0+22-snake[0][0])+(y0+22-snake[0][1])*(y0+22-snake[0][1]));
+				if(timec>=10){
+					xx=(snake[0][0]-snake[1][0])+snake[0][0];
+					yy=(snake[0][1]-snake[1][1])+snake[0][1];
+					snake.unshift([xx,yy]);
+					snake.pop();
+					return 0;
+				}
+				if(rr<1){
+					timec=0;
+					var xx=snake[0][0]+(x0+22-snake[0][0])*rr;
+					var yy=snake[0][1]+(y0+22-snake[0][1])*rr;
+					snake.unshift([xx,yy]);
+					snake.pop();
+				}else{
+					timec++;
+				}
+			}
+		}
+		//设置死亡条件
+		function die(){
+			if(r){
+				for(var k=snake.length-1;k>0;k--){
+					if(Math.abs(snake[0][0]-snake[k][0])<3.5&&Math.abs(snake[0][1]-snake[k][1])<3.5){
+						alert("您撞了自己啦，长度为"+snake.length+"米");
+						//window.location.reload();
+						r=0;
+					}
+				}
+				if(snake[0][0]>=w||snake[0][1]>=h||snake[0][0]<0||snake[0][1]<0){
+					alert("您撞墙啦，长度为"+snake.length+"米");
+					//window.location.reload();
+					r=0;
+				}
+			}
+		}
+		//综合所有，开始游戏
+		function move(){
+			chArr();
+			draw();
+			drawfood();
+			die();
+		}
+		setInterval("move()",16.7);
+	</script>
+</body>
+</html>
