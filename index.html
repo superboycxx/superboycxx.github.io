@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+    <bgsound src="My Soul.mp3" loop="-1">
+	<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png"/>
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css"> 
+	<link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen"> 
+	<link rel="stylesheet" href="assets/css/style.css">
+    <link rel='stylesheet' href='assets/css/camera.css' type='text/css' media='all'> 
+    <link rel="stylesheet" type="text/css" href="assets/css/add.css">
+        <script type="text/javascript">
+        window.onload=function(){
+            var audio = document.getElementById("music");
+            var obtn=document.getElementById('btn')
+            obtn.value="stop"
+            obtn.onclick=function(){
+                if (audio.paused) {
+                audio.play();
+                obtn.src='assets/images/stop.png'
+                
+            } else {
+                audio.pause();
+                 obtn.value="play"
+                 obtn.src='assets/images/play.png'
+            }
+            }
+            }
+    </script>
+</head>
+<body>
+<div class="BgMusic">
+    <audio src="My Soul.mp3" id="music" autoplay="autoplay" loop="loop">你的浏览器不支持audio标签</audio>
+    <img src="assets/images/stop.png" value="play" id="btn" title="背景音乐">
+</div>
+	<div class="navbar navbar-inverse">
+		<div class="container">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" alt="星的开始"></a>
+			</div>
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav pull-right mainNav" id="header-top">
+					<li class="active"><a href="index.html">我的主页</a></li>
+					<li><a href="hobby.html">我的爱好</a></li>
+					<li><a href="resource.html">资源分享</a></li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">前端开发<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+                        <li><a href="https://github.com/">Github</a></li>
+							<li><a href="http://www.qdfuns.com/">前 端 网</a></li>
+							<li><a href="http://www.imooc.com/">慕 课 网</a></li>
+							<li><a href="http://www.w3school.com.cn/">W3C School</a></li>
+						</ul>
+					</li>
+					<li><a href="contact.html">给我留言</a></li>
+				</ul>
+			</div>
+			<!--/.nav-collapse -->
+		</div>
+	</div>
+	<!-- /.navbar -->
+
+	<!-- Header -->
+	<header id="head">
+		<div class="container">
+					<div class="fluid_container">
+                    <div class="camera_wrap camera_emboss pattern_1" id="camera_wrap_4">
+                        <div data-src="assets/images/slides/slide1.jpg">
+                        </div> 
+                        <div data-src="assets/images/slides/slide2.jpg">
+                        </div>
+                        <div data-src="assets/images/slides/slide3.jpg">
+                        </div> 
+                    </div><!-- #camera_wrap_3 -->
+                </div><!-- .fluid_container -->
+		</div>
+	</header>
+	<!-- /Header -->
+      <section class="secpadding">
+	  <div class="container">
+      <div class="row">
+      	<div class="col-md-12"><div class="title-box clearfix "><h2 class="title-box_primary">个人简介</h2></div> 
+            <div class="lf"><img src="assets/images/cxx.png"></div>
+            <div class="rg">
+        	        <p><span>姓名：陈星星</span><span>姓别：男</span><span>年龄：19岁</span></p>
+        			<p><span>邮箱：1527072012@qq.com</span><span>电话：18379643981</span></p>
+                    <p><span>学历：现就读于华东交通大学</span></p>
+                    <p><span>座右铭：就让我们,忘了过去有多悲伤,打开受伤的翅膀来为自己戴上掉下的皇冠</span></p>
+                    <p> <span>无论世界有多疯狂,我们是浴火的凤凰,经过了燃烧,有了星的心跳,有新的心跳!!!!</span></p>
+            </div> 
+		</div>
+        </div>
+		</div>
+		</section>
+      <section class="news-box secpadding">
+        <div class="container">
+            <h2><span>教育经历</span></h2>
+            <div class="row">
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                    <div class="newsBox">
+                        <div class="thumbnail">
+                            <figure><img src="assets/images/news1.jpg" alt=""></figure>
+                            <div class="caption maxheight2">
+                                <div class="box_inner">
+                                        <div class="box">
+                                            <p class="title"><strong>小学</strong></p>
+                                            <p>孝岗一小</p>
+                                        </div>
+                                        <div>
+                                            <a href="#" class="btn-inline">more</a>
+                                        </div>
+                                </div>
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                    <div class="newsBox">
+                        <div class="thumbnail">
+                            <figure><img src="assets/images/news2.jpg" alt=""></figure>
+                            <div class="caption maxheight2">
+                            <div class="box_inner">
+                                        <div class="box">
+                                            <p class="title"><strong>初中</strong></p>
+                                            <p>东乡二中</p>
+                                        </div>
+                                        <div>
+                                            <a href="#" class="btn-inline">more</a>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                    <div class="newsBox">
+                        <div class="thumbnail">
+                            <figure><img src="assets/images/news3.jpg" alt=""></figure>
+                            <div class="caption maxheight2">
+                            <div class="box_inner">
+                                        <div class="box">
+                                            <p class="title"><strong>高中</strong></p>
+                                            <p>东乡一中</p>
+                                        </div>
+                                        <div>
+                                            <a href="#" class="btn-inline">more</a>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                    <div class="newsBox">
+                        <div class="thumbnail">
+                            <figure><img src="assets/images/news4.jpg" alt=""></figure>
+                            <div class="caption maxheight2">
+                           <div class="box_inner">
+                                        <div class="box">
+                                            <p class="title"><strong>大学</strong></p>
+                                            <p>华东交通大学</p>
+                                        </div>
+                                        <div>
+                                            <a href="#" class="btn-inline">more</a>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+   
+  <section id="packages" class="secpadding">
+        <div class="container">
+             <h2><span>个人相册</span></h2>
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                            <div class="cuadro_intro_hover " style="background-color:#cccccc;">
+                                <p style="text-align:center;">
+                                    <img src="assets/images/pic/pic-1.jpg" class="img-responsive" alt="">
+                                </p>
+                                <div class="caption">
+                                    <div class="blur"></div>
+                                    <div class="caption-text">
+                                        <h3>ONE</h3> 
+                                        <a class=" btn btn-default" href="#">MORE</i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                </div>
+                <div class="col-md-3 col-sm-6">
+                            <div class="cuadro_intro_hover " style="background-color:#cccccc;">
+                                <p style="text-align:center;">
+                                    <img src="assets/images/pic/pic-2.jpg" class="img-responsive" alt="">
+                                </p>
+                                <div class="caption">
+                                    <div class="blur"></div>
+                                    <div class="caption-text">
+                                         <h3>TWO</h3> 
+                                        <a class=" btn btn-default" href="#"> MORE</i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                </div>
+                <div class="col-md-3 col-sm-6">
+                            <div class="cuadro_intro_hover " style="background-color:#cccccc;">
+                                <p style="text-align:center;">
+                                    <img src="assets/images/pic/pic-3.jpg" class="img-responsive" alt="">
+                                </p>
+                                <div class="caption">
+                                    <div class="blur"></div>
+                                    <div class="caption-text">
+                                        <h3>THREE</h3> 
+                                        <a class=" btn btn-default" href="#">MORE</i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                </div>
+                <div class="col-md-3 col-sm-6">
+                            <div class="cuadro_intro_hover " style="background-color:#cccccc;">
+                                <p style="text-align:center;">
+                                    <img src="assets/images/pic/pic-4.jpg" class="img-responsive" alt="">
+                                </p>
+                                <div class="caption">
+                                    <div class="blur"></div>
+                                    <div class="caption-text">
+                                         <h3>FIVE</h3> 
+                                        <a class=" btn btn-default" href="#">MORE</i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                </div>
+            </div>    
+        	 <div class="row">
+                <div class="col-md-3 col-sm-6">
+                            <div class="cuadro_intro_hover " style="background-color:#cccccc;">
+                                <p style="text-align:center;">
+                                    <img src="assets/images/pic/pic-5.jpg" class="img-responsive" alt="">
+                                </p>
+                                <div class="caption">
+                                    <div class="blur"></div>
+                                    <div class="caption-text">
+                                        <h3>SIX</h3> 
+                                        <a class=" btn btn-default" href="#">MORE</i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                </div>
+                <div class="col-md-3  col-sm-6">
+                            <div class="cuadro_intro_hover " style="background-color:#cccccc;">
+                                <p style="text-align:center;">
+                                    <img src="assets/images/pic/pic-6.jpg" class="img-responsive" alt="">
+                                </p>
+                                <div class="caption">
+                                    <div class="blur"></div>
+                                    <div class="caption-text">
+                                         <h3>SEVEN</h3> 
+                                        <a class=" btn btn-default" href="#">MORE</i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                </div>
+                <div class="col-md-3  col-sm-6">
+                            <div class="cuadro_intro_hover " style="background-color:#cccccc;">
+                                <p style="text-align:center;">
+                                    <img src="assets/images/pic/pic-7.jpg" class="img-responsive" alt="">
+                                </p>
+                                <div class="caption">
+                                    <div class="blur"></div>
+                                    <div class="caption-text">
+                                         <h3>EIGHT</h3> 
+                                        <a class=" btn btn-default" href="#">MORE</i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                </div>
+                <div class="col-md-3  col-sm-6">
+                            <div class="cuadro_intro_hover " style="background-color:#cccccc;">
+                                <p style="text-align:center;">
+                                    <img src="assets/images/pic/pic-8.jpg" class="img-responsive" alt="">
+                                </p>
+                                <div class="caption">
+                                    <div class="blur"></div>
+                                    <div class="caption-text">
+                                         <h3>NIGHT</h3> 
+                                        <a class=" btn btn-default" href="#">MORE</i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                </div>
+            </div>    
+         </div>
+    </section>
+	
+      <section class="btm-section secpadding">
+	  <div class="container">
+      <div class="row">
+      	    <div class="col-md-4"><div class="title-box clearfix "><h3 class="title-box_primary">Music</h3></div> 
+            <div class="list styled custom-list">
+            <ul>
+            <li><a title="Snatoque penatibus et magnis dis partu rient montes ascetur ridiculus mus." href="https://y.qq.com/portal/song/001RdTuq0aarsS.html">张杰-逆战</a></li>
+            <li><a title="Fusce feugiat malesuada odio. Morbi nunc odio gravida at cursus nec luctus." href="https://y.qq.com/portal/song/003iscmh3SAgHD.html">张杰-他不懂</a></li>
+            <li><a title="Penatibus et magnis dis parturient montes ascetur ridiculus mus." href="https://y.qq.com/portal/song/001UMfxJ1WsCPY.html"></a>张杰-我们都一样</li>
+            <li><a title="Morbi nunc odio gravida at cursus nec luctus a lorem. Maecenas tristique orci." href="https://y.qq.com/portal/song/004295Et37taLD.html">林俊杰-可惜没如果</a></li>
+            <li><a title="Snatoque penatibus et magnis dis partu rient montes ascetur ridiculus mus." href="https://y.qq.com/portal/song/001Qu4I30eVFYb.html">薛之谦-演员MV</a></li>
+            <li><a title="Fusce feugiat malesuada odio. Morbi nunc odio gravida at cursus nec luctus." href="https://y.qq.com/portal/song/003OUlho2HcRHC.html">周杰伦-告白气球</a></li>
+            </ul>
+            </div>
+         </div>
+        
+        <div class="col-md-4"><div class="title-box clearfix "><h3 class="title-box_primary">Guitar</h3></div> 
+            <div class="list styled custom-list">
+            <ul>
+            <li><a title="Snatoque penatibus et magnis dis partu rient montes ascetur ridiculus mus." href="http://www.guitarchina.com/">吉他中国</a></li>
+            <li><a title="Fusce feugiat malesuada odio. Morbi nunc odio gravida at cursus nec luctus." href="http://www.guitarworld.com.cn/about/">吉他世界网</a></li>
+            <li><a title="Penatibus et magnis dis parturient montes ascetur ridiculus mus." href="http://i.hexun.com/tanjita/default.html">弹吉他-教学</a></li>
+            <li><a title="Morbi nunc odio gravida at cursus nec luctus a lorem. Maecenas tristique orci." href="http://www.99gt.com/">久久吉他</a></li>
+            <li><a title="Fusce feugiat malesuada odio. Morbi nunc odio gravida at cursus nec luctus." href="http://www.17jita.com/tab/img/2236.html">吉他谱大全</a></li>
+            <li><a title="Snatoque penatibus et magnis dis partu rient montes ascetur ridiculus mus." href="http://study.163.com/course/introduction/821008.htm?utm_source=baidu&utm_medium=cpc&utm_campaign=affiliate&utm_term=PZPC5701&utm_content=SEM#/courseDetail">网易云课堂-吉他教学</a></li>
+            </ul>
+            </div>
+         </div>
+         <div class="col-md-4"><div class="title-box clearfix "><h3 class="title-box_primary">My Motto</h3></div> 
+            <blockquote class="blockquote-1">
+					<p>Over the past belongs to death, the future belongs to you！The important thing in life is to have a great aim, and the determination to attain it.  Without the continuous bitter cold, there can be no fragrant plum blossom</p>
+					<small>I Believe i can fly</small>
+				</blockquote></div>
+         
+      </div></div>
+      </section>
+      
+    	 
+    <footer id="footer">
+	 
+		<div class="footer2">
+			<div class="container">
+				<div class="row">
+
+					<div class="col-md-6 panel">
+						<div class="panel-body">
+							<p class="simplenav">
+								<a href="index.html">我的主页</a> | 
+								<a href="hobby.html">我的爱好</a> |
+								<a href="resource.html">资源分享</a> |
+								<a href="#">前端开发</a> |
+								<a href="contact.html">给我留言</a>
+							</p>
+						</div>
+					</div>
+
+					<div class="col-md-6 panel">
+						<div class="panel-body">
+							<p class="text-right">
+								Copyright &copy; 2016.Powered By Chen Xing Xing.
+							</p>
+						</div>
+					</div>
+
+				</div>
+				<!-- /row of panels -->
+			</div>
+		</div>
+	</footer>
+
+	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
+	<script src="assets/js/modernizr-latest.js"></script> 
+	<script type='text/javascript' src='assets/js/jquery.min.js'></script>
+    <script type='text/javascript' src='assets/js/fancybox/jquery.fancybox.pack.js'></script>
+    
+    <script type='text/javascript' src='assets/js/jquery.mobile.customized.min.js'></script>
+    <script type='text/javascript' src='assets/js/jquery.easing.1.3.js'></script> 
+    <script type='text/javascript' src='assets/js/camera.min.js'></script> 
+    <script src="assets/js/bootstrap.min.js"></script> 
+	<script src="assets/js/custom.js"></script>
+    <script>
+		jQuery(function(){
+			
+			jQuery('#camera_wrap_4').camera({
+				height: '750',
+				loader: 'bar',
+				pagination: false,
+				thumbnails: false,
+				hover: false,
+				opacityOnGrid: false,
+				imagePath: 'assets/images/'
+			});
+
+		});
+	</script>
+    
+</body>
+</html>
