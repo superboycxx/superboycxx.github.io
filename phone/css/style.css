@@ -275,7 +275,7 @@ h2.resp-accordion {
 .wthree_tab_grid h4{
 	font-size:1em;
 	color:#212121;
-	width: 18%;
+    box-shadow: 5px 5px 3px #888888;
 	padding-bottom:.5em;
 	margin-bottom:1em;
 	position:relative;
@@ -303,9 +303,9 @@ h2.resp-accordion {
 .wthree_tab_grid_sub_left:hover{
 	background: red;
 }
-.wthree_tab_grid_sub_left h5{
-	font-size:1.5em;
-	color:#fff;
+.wthree_tab_grid_sub_left span{
+	font-size:18px;
+	color:white;
 	font-weight:700;
 }
 .wthree_tab_grid_sub_left p{
@@ -352,7 +352,6 @@ ul.wthree_tab_grid_list {
 .wthree_tab_grid ol{
 	padding:1em 0 0 1em;
 }
-.wthree_tab_grid iframe{margin-left: 60px;}
 .wthree_tab_grid ol li{
 	padding-top: 1em;
     font-size: 14px;
