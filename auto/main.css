@@ -97,12 +97,12 @@ a{text-decoration:none;}
     .header,  
     .container,  
     .footer{  
-        width:400px;  
+        width:380px;  
     }  
   
     .sidebarLeft,  
     .sidebarRight{  
-        width:400px;  
+        width:380px;  
         height:100px;  
     }  
     .main{  
