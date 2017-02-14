@@ -62,11 +62,11 @@ a{text-decoration:none;}
     }  
 }  
   
-@media screen and (min-width:480px) and (max-width:960px){  
+@media screen and (min-width:600px) and (max-width:960px){  
     .header,  
     .container,  
     .footer{  
-        width:100%;  
+        width:600px;  
     }  
   
     .sidebarLeft,  
@@ -80,12 +80,12 @@ a{text-decoration:none;}
     }  
   
     .sidebarLeft{  
-        width:160px;  
+        width:600px;  
     }  
   
     .main{  
         margin-left:10px;  
-        width:100%;  
+        width:600px;  
     }  
   
     .container{  
@@ -93,21 +93,77 @@ a{text-decoration:none;}
     }  
 }  
   
-@media screen and (max-device-width:480px){  
+@media screen and (min-width:414px) and (max-device-width:600px){  
     .header,  
     .container,  
     .footer{  
-        width:100%;  
+        width:414px;  
     }  
   
     .sidebarLeft,  
     .sidebarRight{  
-        width:100%;  
+        width:414px;  
         height:100px;  
     }  
     .main{  
         margin-top:10px;  
-        width:100%px;  
+        width:414px;  
+        height:200px;  
+    }  
+  
+    .sidebarRight{  
+        margin-top:10px;  
+    }  
+  
+    .container{  
+        height:420px;  
+    }  
+}  
+
+
+@media screen and (min-width:375px) and (max-device-width:414px){  
+    .header,  
+    .container,  
+    .footer{  
+        width:375px;  
+    }  
+  
+    .sidebarLeft,  
+    .sidebarRight{  
+        width:375px;  
+        height:100px;  
+    }  
+    .main{  
+        margin-top:10px;  
+        width:375px;  
+        height:200px;  
+    }  
+  
+    .sidebarRight{  
+        margin-top:10px;  
+    }  
+  
+    .container{  
+        height:420px;  
+    }  
+}  
+
+
+@media screen and (min-width:320px) and (max-device-width:375px){  
+    .header,  
+    .container,  
+    .footer{  
+        width:320px;  
+    }  
+  
+    .sidebarLeft,  
+    .sidebarRight{  
+        width:320px;  
+        height:100px;  
+    }  
+    .main{  
+        margin-top:10px;  
+        width:320px;  
         height:200px;  
     }  
   
