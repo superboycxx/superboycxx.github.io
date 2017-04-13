@@ -80,10 +80,10 @@
 			</audio>
 			<button id="play">播放</button>
 			<button id="paused">暂停</button>
-			<button id="urls">音乐地址</button>
 			<button id="preurl">上一曲</button>
 			<button id="nexturl">下一曲</button>
 			<button id="loop">循环</button>
+		        <button id="urls">更多音乐</button>
 		</div>
 		<ul class="mp3_list">
 		</ul>
@@ -147,7 +147,11 @@
 				});
 				//当前音乐地址
 				$("#urls").click(function() {
-					alert("哈哈，你好！")
+					 alert("哈哈，你好！")
+					 window.setTimeout(function(){
+					   window.location.href = 'http://www.baidu.com';
+					 },3000);
+					
 				});
 				//上一曲
 				$("#preurl").click(function() {
