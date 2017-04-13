@@ -112,6 +112,14 @@ mp3s = [{
 	"desp": " | 2:34",
 	"songUrl": "http://so1.111ttt.com:8282/2015/1/01m/09/94091756342.m4a?tflag=1489049232&pin=8987e726381c4b61cb6ea229eff2e109&ip=59.53.174.241#.mp3"
 },{
+	"title": "刚好遇见你 - 李玉刚",
+	"desp": " | 2:44",
+	"songUrl": "http://up.haoduoge.com:82/mp3/2017-04-13/1492049650.mp3"
+},{
+	"title": "薛之谦-你还要我怎样(电视剧《如果我爱你》插曲)",
+	"desp": " | 2:44",
+	"songUrl": "http://mp3.haoduoge.com/s/2017-04-13/1492054918.mp3"
+},{
 	"title": "走在冷风中",
 	"desp": "刘思涵 | 0:48",
 	"songUrl": "http://tyst.migu.cn/public/ringmaker01/n4/Product/2012/02/2012%E5%B9%B402%E6%9C%8802%E6%97%A5%E7%A7%8D%E5%AD%90%E9%9F%B3%E4%B9%90%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A510%E9%A6%96/%E5%BD%A9%E9%93%83/6_mp3-128kbps/%E8%B5%B0%E5%9C%A8%E5%86%B7%E9%A3%8E%E4%B8%AD-%E5%88%98%E6%80%9D%E6%B6%B5.mp3?channelid=08&msisdn=6cc346ea-9605-48df-a5f5-fa1b75aab77f",
