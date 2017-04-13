@@ -73,7 +73,7 @@ mp3s = [{
 	"desp": "庄心妍 | 0:48",
 	"songUrl": "http://tyst.migu.cn/public/ringmaker01/dailyring03/vsftp/ywq/public/ringmaker01/dailyring03/2015/11/2015%E5%B9%B411%E6%9C%8811%E6%97%A517%E7%82%B908%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E8%87%B4%E5%8A%9B%E6%96%87%E5%8C%961%E9%A6%96/%E5%BD%A9%E9%93%83/6_mp3-128kbps/%E8%B5%B0%E7%9D%80%E8%B5%B0%E7%9D%80%E5%B0%B1%E6%95%A3%E4%BA%86-%E5%BA%84%E5%BF%83%E5%A6%8D.mp3?channelid=08&msisdn=161252b5-62d0-4f0b-b025-8077657239e9",
 	"orderUrl": "http://m.kugou.com/v3/static/html/orderRing.html?id=4cbcc1b5f4ca08ca510487f6c0941cb8"
-}, {
+},{
 	"title": "小幸运(电影我的少女时代主题曲)",
 	"desp": "田馥甄 | 0:48",
 	"songUrl": "http://tyst.migu.cn/public/ringmaker01/dailyring02/2015/08/2015%E5%B9%B408%E6%9C%8806%E6%97%A514%E7%82%B933%E5%88%86%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E5%8D%8E%E8%8D%A3%E6%96%87%E5%8C%96%E9%A2%84%E7%95%991%E9%A6%96/%E5%BD%A9%E9%93%83/6_mp3-128kbps/%E5%B0%8F%E5%B9%B8%E8%BF%90%28%E7%94%B5%E5%BD%B1%E6%88%91%E7%9A%84%E5%B0%91%E5%A5%B3%E6%97%B6%E4%BB%A3%E4%B8%BB%E9%A2%98%E6%9B%B2%29-%E7%94%B0%E9%A6%A5%E7%94%84.mp3?channelid=08&msisdn=bc6b35ba-2ccf-4b07-819f-12a5251ec2d2",
