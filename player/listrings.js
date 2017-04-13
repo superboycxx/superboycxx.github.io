@@ -43,10 +43,6 @@ mp3s = [{
 	"desp": "萌萌 | 3:49",
 	"songUrl": "http://so1.111ttt.com:8282/2016/5/06m/12/199120843349.m4a?tflag=1489049259&pin=f2ec8ab20bd45d7d199696221e629dc7&ip=59.53.174.241#.mp3"
 },{
-	"title": "张杰 - 花手绢",
-	"desp": " | 7:22",
-	"songUrl": "http://hd.xiaotimi.com/2013/jy/ok6/DKSQ.mp4?#.mp3"
-},{
 	"title": "张杰 - My Sunshine",
 	"desp": "张杰 | 4:26",
 	"songUrl": "http://so1.111ttt.com:8282/2014/1/12m/23/5231847570.m4a?tflag=1489049325&pin=b704efc21cdca6558152b6729bc9a4dd&ip=59.53.174.241#.mp3",
@@ -63,11 +59,6 @@ mp3s = [{
 	"desp": " | 3:50",
 	"songUrl": "http://so1.111ttt.com:8282/2016/1/12m/10/205101110336.m4a?tflag=1489048878&pin=a22741de5cd28ef33b321627ec43e3dc&ip=59.53.174.241#.mp3"
 },{
-	"title": "My Soul - 轻音乐",
-	"desp": "Wiz Khalifa,Charlie Puth | 3:50",
-	"songUrl": "http://www.cxx666.top/My%20Soul.mp3",
-	"orderUrl":""
-}, {
 	"title": "我们不该这样的(北上广不相信眼泪电视剧片尾曲)",
 	"desp": "张赫宣 | 0:48",
 	"songUrl": "http://tyst.migu.cn/public/ringmaker01/n15/2016/07/2015%E5%B9%B411%E6%9C%8817%E6%97%A516%E7%82%B902%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E5%A4%A9%E7%BF%BC%E7%88%B1%E9%9F%B3%E4%B9%903%E9%A6%96/%E5%BD%A9%E9%93%83/6_mp3-128kbps/%E6%88%91%E4%BB%AC%E4%B8%8D%E8%AF%A5%E8%BF%99%E6%A0%B7%E7%9A%84%28%E5%8C%97%E4%B8%8A%E5%B9%BF%E4%B8%8D%E7%9B%B8%E4%BF%A1%E7%9C%BC%E6%B3%AA%E7%94%B5%E8%A7%86%E5%89%A7%E7%89%87%E5%B0%BE%E6%9B%B2%29-%E5%BC%A0%E8%B5%AB%E5%AE%A3.mp3?channelid=08&msisdn=2847a8ac-3f91-4a01-b759-55f38b24e016",
