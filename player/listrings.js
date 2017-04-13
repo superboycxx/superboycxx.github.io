@@ -1,6 +1,26 @@
 mp3s = [{
-	"title": "陈雨晴 - 我想",
+	"title": "陈雨晴 - 幸福的终点",
 	"desp": "lala | 3:49",
+	"songUrl": "http://www.cxx666.top/幸福的终点.mp3"
+},{
+	"title": "陈雨晴 - 全世界谁倾听你",
+	"desp": " | 7:22",
+	"songUrl": "http://www.cxx666.top/全世界谁倾听你.mp3"
+},{
+	"title": "陈雨晴 - 幸福的终点",
+	"desp": " | 7:22",
+	"songUrl": "http://www.cxx666.top/幸福的终点.mp3"
+},{
+	"title": "陈雨晴 - 幸福的终点绢",
+	"desp": " | 7:22",
+	"songUrl": "http://www.cxx666.top/幸福的终点.mp3"
+},{
+	"title": "陈雨晴 - 幸福的终点",
+	"desp": " | 7:22",
+	"songUrl": "http://www.cxx666.top/幸福的终点.mp3"
+},{
+	"title": "陈雨晴 - 幸福的终点",
+	"desp": " | 7:22",
 	"songUrl": "http://www.cxx666.top/幸福的终点.mp3"
 },{
 	"title": "张杰 - 我想",
