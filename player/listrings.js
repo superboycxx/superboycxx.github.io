@@ -1,52 +1,48 @@
 mp3s = [{
-	"title": "陈雨晴 - 幸福的终点",
-	"desp": "lala | 3:49",
-	"songUrl": "http://www.cxx666.top/幸福的终点.mp3"
-},{
-	"title": "陈雨晴 - 全世界谁倾听你",
-	"desp": " | 7:22",
-	"songUrl": "http://www.cxx666.top/全世界谁倾听你.mp3"
+	"title": "陈雨晴 - Everytime",
+	"desp": "lala | 3:08",
+	"songUrl": "http://www.cxx666.top/33.mp3"
 },{
 	"title": "陈雨晴 - 天真",
-	"desp": " | 7:22",
+	"desp": " | 4:07",
 	"songUrl": "http://www.cxx666.top/tz.mp3"
 },{
 	"title": "陈雨晴 - 凉凉",
-	"desp": " | 7:22",
+	"desp": " | 5:33",
 	"songUrl": "http://www.cxx666.top/凉凉.mp3"
 },{
 	"title": "陈雨晴 - 我知道",
-	"desp": " | 7:22",
+	"desp": " | 4:54",
 	"songUrl": "http://www.cxx666.top/22.mp3"
 },{
+	"title": "陈雨晴 - 画中仙",
+	"desp": " | 4:47",
+	"songUrl": "http://www.cxx666.top/画中仙.mp3"
+},{
 	"title": "陈雨晴 - 星月神话",
-	"desp": " | 7:22",
+	"desp": " | 4:07",
 	"songUrl": "http://www.cxx666.top/44.mp3"
 },{
 	"title": "陈雨晴 - Stitches",
-	"desp": " | 7:22",
+	"desp": " | 3:27",
 	"songUrl": "http://www.cxx666.top/Stitches.mp3"
 },{
-	"title": "陈雨晴 - 画中仙",
-	"desp": " | 7:22",
-	"songUrl": "http://www.cxx666.top/画中仙.mp3"
-},{
 	"title": "陈雨晴 - 红色高跟鞋",
-	"desp": " | 7:22",
+	"desp": " | 3:26",
 	"songUrl": "http://www.cxx666.top/红色高跟鞋.mp3"
 },{
-	"title": "陈雨晴 - Everytime",
-	"desp": " | 7:22",
-	"songUrl": "http://www.cxx666.top/33.mp3"
+	"title": "陈雨晴 - 幸福的终点",
+	"desp": " | 4:13",
+	"songUrl": "http://www.cxx666.top/幸福的终点.mp3"
+},{
+	"title": "陈雨晴 - 全世界谁倾听你",
+	"desp": " | 4:19",
+	"songUrl": "http://www.cxx666.top/全世界谁倾听你.mp3"
 },{
 	"title": "张杰 - 我想",
 	"desp": "萌萌 | 3:49",
 	"songUrl": "http://so1.111ttt.com:8282/2016/5/06m/12/199120843349.m4a?tflag=1489049259&pin=f2ec8ab20bd45d7d199696221e629dc7&ip=59.53.174.241#.mp3"
-},{
-	"title": "张杰 - 花手绢",
-	"desp": " | 7:22",
-	"songUrl": "http://hd.xiaotimi.com/2013/jy/ok6/DKSQ.mp4?#.mp3"
-},{
+}{
 	"title": "张杰 - My Sunshine",
 	"desp": "张杰 | 4:26",
 	"songUrl": "http://so1.111ttt.com:8282/2014/1/12m/23/5231847570.m4a?tflag=1489049325&pin=b704efc21cdca6558152b6729bc9a4dd&ip=59.53.174.241#.mp3",
