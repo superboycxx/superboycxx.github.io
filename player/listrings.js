@@ -120,6 +120,34 @@ mp3s = [{
 	"desp": " | 2:44",
 	"songUrl": "http://mp3.haoduoge.com/s/2017-04-13/1492054918.mp3"
 },{
+	"title": "薛之谦 - 暧昧", 
+	"desp": " | 2:44",
+	"songUrl": "http://mp3.haoduoge.com/s/2017-04-11/1491918283.mp3"
+},{
+	"title": "薛之谦 - 高尚",
+	"desp": " | 2:44",
+	"songUrl": "http://mp3.haoduoge.com/s/2017-04-10/1491828750.mp3"
+},{
+	"title": "魏晨 - 不变",
+	"desp": " | 2:44",
+	"songUrl": "http://mp3.haoduoge.com/s/2017-04-12/1491973885.mp3"
+},{
+	"title": "Westlife - You Raise Me Up",
+	"desp": " | 2:44",
+	"songUrl": "http://mp3.haoduoge.com/s/2017-04-13/1492055470.mp3"
+},{
+	"title": "许巍 - 曾经的你",
+	"desp": " | 2:44",
+	"songUrl": "http://mp3.haoduoge.com/s/2017-04-09/1491747767.mp3"
+},{
+	"title": "周杰伦 - 英雄",
+	"desp": " | 2:44",
+	"songUrl": "http://mp3.haoduoge.com/s/2016-05-19/1463626214.mp3"
+},{
+	"title": "周杰伦-告白气球",
+	"desp": " | 2:44",
+	"songUrl": "http://mp3.haoduoge.com/s/2017-03-11/1489232929.mp3"
+},{
 	"title": "走在冷风中",
 	"desp": "刘思涵 | 0:48",
 	"songUrl": "http://tyst.migu.cn/public/ringmaker01/n4/Product/2012/02/2012%E5%B9%B402%E6%9C%8802%E6%97%A5%E7%A7%8D%E5%AD%90%E9%9F%B3%E4%B9%90%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A510%E9%A6%96/%E5%BD%A9%E9%93%83/6_mp3-128kbps/%E8%B5%B0%E5%9C%A8%E5%86%B7%E9%A3%8E%E4%B8%AD-%E5%88%98%E6%80%9D%E6%B6%B5.mp3?channelid=08&msisdn=6cc346ea-9605-48df-a5f5-fa1b75aab77f",
