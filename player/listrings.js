@@ -57,7 +57,7 @@ mp3s = [{
 },{
 	"title": "周杰伦 - 爱情废柴",
 	"desp": " | 3:50",
-	"songUrl": "http://www.cxx666.top/66.MP3"
+	"songUrl": "http://www.cxx666.top/66.mp3"
 },{
 	"title": "我们不该这样的(北上广不相信眼泪电视剧片尾曲)",
 	"desp": "张赫宣 | 0:48",
@@ -89,21 +89,13 @@ mp3s = [{
 	"songUrl": "http://tyst.migu.cn/public/ringmaker01/dailyring02/2015/07/2015%E5%B9%B407%E6%9C%8831%E6%97%A515%E7%82%B952%E5%88%86%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E5%A4%A9%E7%BF%BC%E7%88%B1%E9%9F%B3%E4%B9%90%E9%A2%84%E7%95%9910%E9%A6%96/%E5%BD%A9%E9%93%83/6_mp3-128kbps/%E5%8D%97%E5%B1%B1%E5%8D%97%28%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E7%AC%AC%E5%9B%9B%E5%AD%A3+%E7%9B%B2%E9%80%89%E7%AC%AC%E4%B8%89%E6%9C%9F%29-%E5%BC%A0%E7%A3%8A.mp3?channelid=08&msisdn=2fc07619-ecb5-459c-bc5a-4410539264a3",
 	"orderUrl": "http://m.kugou.com/v3/static/html/orderRing.html?id=d85d9ed467653d2d968c66133f48f9bf"
 },{
-	"title": "周杰伦 - 爱情废柴",
-	"desp": " | 3:50",
-	"songUrl": "http://www.cxx666.top/66.MP3"
-},{
 	"title": "Maroon - Sugar",
-	"desp": " | 3:50",
+	"desp": " | 3:55",
 	"songUrl": "http://www.cxx666.top/Maroon 5 - Sugar [mqms2].m4a"
 },{
 	"title": "后街男孩 - As Long As You Love Me",
-	"desp": " | 3:50",
+	"desp": " | 3:42",
 	"songUrl": "http://www.cxx666.top/后街男孩 - As Long As You Love Me [mqms2].m4a"
-},{
-	"title": "Isyana Sarasvati - 跟随你",
-	"desp": " | 3:20",
-	"songUrl": "http://so1.111ttt.com:8282/2016/1/12m/10/205102127335.m4a?tflag=1489048468&pin=d54dc7471aadcfa3bc00e6577c80b759&ip=59.53.174.241#.mp3"
 },{
 	"title": "沙滩上的钢琴 - 纯音乐",
 	"desp": " | 6:12",
@@ -130,32 +122,16 @@ mp3s = [{
 	"songUrl": "http://up.haoduoge.com:82/mp3/2017-04-13/1492049650.mp3"
 },{
 	"title": "薛之谦-你还要我怎样(电视剧《如果我爱你》插曲)",
-	"desp": " | 2:44",
+	"desp": " | 5:10",
 	"songUrl": "http://mp3.haoduoge.com/s/2017-04-13/1492054918.mp3"
 },{
 	"title": "薛之谦 - 暧昧", 
-	"desp": " | 2:44",
+	"desp": " | 5:12",
 	"songUrl": "http://mp3.haoduoge.com/s/2017-04-11/1491918283.mp3"
 },{
 	"title": "薛之谦 - 高尚",
-	"desp": " | 2:44",
+	"desp": " | 5:18",
 	"songUrl": "http://mp3.haoduoge.com/s/2017-04-10/1491828750.mp3"
-},{
-	"title": "魏晨 - 不变",
-	"desp": " | 2:44",
-	"songUrl": "http://mp3.haoduoge.com/s/2017-04-12/1491973885.mp3"
-},{
-	"title": "Westlife - You Raise Me Up",
-	"desp": " | 2:44",
-	"songUrl": "http://mp3.haoduoge.com/s/2017-04-13/1492055470.mp3"
-},{
-	"title": "许巍 - 曾经的你",
-	"desp": " | 2:44",
-	"songUrl": "http://mp3.haoduoge.com/s/2017-04-09/1491747767.mp3"
-},{
-	"title": "周杰伦 - 英雄",
-	"desp": " | 2:44",
-	"songUrl": "http://mp3.haoduoge.com/s/2016-05-19/1463626214.mp3"
 },{
 	"title": "周杰伦-告白气球",
 	"desp": " | 2:44",
