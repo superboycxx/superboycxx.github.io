@@ -3,6 +3,10 @@ mp3s = [{
 	"desp": "萌萌 | 3:49",
 	"songUrl": "http://so1.111ttt.com:8282/2016/5/06m/12/199120843349.m4a?tflag=1489049259&pin=f2ec8ab20bd45d7d199696221e629dc7&ip=59.53.174.241#.mp3"
 },{
+	"title": "张杰 - 我想",
+	"desp": "萌萌 | 3:49",
+	"songUrl": "http://so1.111ttt.com:8282/2016/5/06m/12/199120843349.m4a?tflag=1489049259&pin=f2ec8ab20bd45d7d199696221e629dc7&ip=59.53.174.241#.mp3"
+},{
 	"title": "张杰 - 花手绢",
 	"desp": " | 7:22",
 	"songUrl": "http://hd.xiaotimi.com/2013/jy/ok6/DKSQ.mp4?#.mp3"
