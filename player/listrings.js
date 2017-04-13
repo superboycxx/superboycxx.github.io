@@ -47,23 +47,24 @@ mp3s = [{
 	"desp": "张杰 | 4:26",
 	"songUrl": "http://so1.111ttt.com:8282/2014/1/12m/23/5231847570.m4a?tflag=1489049325&pin=b704efc21cdca6558152b6729bc9a4dd&ip=59.53.174.241#.mp3",
 },{
-	"title": "张杰 - 我在这里(电视剧《二炮手》插曲)",
-	"desp": "张杰 | 3:24",
-	"songUrl": "http://so1.111ttt.com:8282/2015/1/01m/09/94091746253.m4a?tflag=1489049207&pin=b727ef2b8e8e747e0ee1d4ac40550ac1&ip=59.53.174.241#.mp3"
-},{
 	"title": "张杰 - 老婆 (电视剧《二炮手》片尾主题曲)",
 	"desp": " | 4:13",
 	"songUrl": "http://so1.111ttt.com:8282/2015/1/01m/02/94022006552.m4a?tflag=1489049176&pin=e1cb4ec0da425301f8eb15f9755bb105&ip=59.53.174.241#.mp3"
 },{
-	"title": "张杰 - Everything Will Say Goodbye",
+	"title": "张杰 - 一切都值得",
 	"desp": " | 3:50",
-	"songUrl": "http://so1.111ttt.com:8282/2016/1/12m/10/205101110336.m4a?tflag=1489048878&pin=a22741de5cd28ef33b321627ec43e3dc&ip=59.53.174.241#.mp3"
+	"songUrl": "http://www.cxx666.top/张杰 - 一切都值得 [mqms2].m4a"
 },{
 	"title": "我们不该这样的(北上广不相信眼泪电视剧片尾曲)",
 	"desp": "张赫宣 | 0:48",
 	"songUrl": "http://tyst.migu.cn/public/ringmaker01/n15/2016/07/2015%E5%B9%B411%E6%9C%8817%E6%97%A516%E7%82%B902%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E5%A4%A9%E7%BF%BC%E7%88%B1%E9%9F%B3%E4%B9%903%E9%A6%96/%E5%BD%A9%E9%93%83/6_mp3-128kbps/%E6%88%91%E4%BB%AC%E4%B8%8D%E8%AF%A5%E8%BF%99%E6%A0%B7%E7%9A%84%28%E5%8C%97%E4%B8%8A%E5%B9%BF%E4%B8%8D%E7%9B%B8%E4%BF%A1%E7%9C%BC%E6%B3%AA%E7%94%B5%E8%A7%86%E5%89%A7%E7%89%87%E5%B0%BE%E6%9B%B2%29-%E5%BC%A0%E8%B5%AB%E5%AE%A3.mp3?channelid=08&msisdn=2847a8ac-3f91-4a01-b759-55f38b24e016",
 	"orderUrl": "http://m.kugou.com/v3/static/html/orderRing.html?id=e4ec0e655e562b35833e40f9bb60cac8"
-}, {
+},{
+	"title": "走在冷风中",
+	"desp": "刘思涵 | 0:48",
+	"songUrl": "http://tyst.migu.cn/public/ringmaker01/n4/Product/2012/02/2012%E5%B9%B402%E6%9C%8802%E6%97%A5%E7%A7%8D%E5%AD%90%E9%9F%B3%E4%B9%90%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A510%E9%A6%96/%E5%BD%A9%E9%93%83/6_mp3-128kbps/%E8%B5%B0%E5%9C%A8%E5%86%B7%E9%A3%8E%E4%B8%AD-%E5%88%98%E6%80%9D%E6%B6%B5.mp3?channelid=08&msisdn=6cc346ea-9605-48df-a5f5-fa1b75aab77f",
+	"orderUrl": "http://m.kugou.com/v3/static/html/orderRing.html?id=c494b26921478bd7660dc687ab13b809"
+},{
 	"title": "走着走着就散了",
 	"desp": "庄心妍 | 0:48",
 	"songUrl": "http://tyst.migu.cn/public/ringmaker01/dailyring03/vsftp/ywq/public/ringmaker01/dailyring03/2015/11/2015%E5%B9%B411%E6%9C%8811%E6%97%A517%E7%82%B908%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E8%87%B4%E5%8A%9B%E6%96%87%E5%8C%961%E9%A6%96/%E5%BD%A9%E9%93%83/6_mp3-128kbps/%E8%B5%B0%E7%9D%80%E8%B5%B0%E7%9D%80%E5%B0%B1%E6%95%A3%E4%BA%86-%E5%BA%84%E5%BF%83%E5%A6%8D.mp3?channelid=08&msisdn=161252b5-62d0-4f0b-b025-8077657239e9",
@@ -108,10 +109,6 @@ mp3s = [{
 	"desp": " | 4:11",
 	"songUrl": "http://so1.111ttt.com:8282/2016/5/12m/07/205071238389.m4a?tflag=1489049022&pin=668b3a20717e987c77f8500e672a1ee4&ip=59.53.174.241#.mp3"
 },{
-	"title": "理查德克莱德曼 - 天空之城",
-	"desp": " | 2:34",
-	"songUrl": "http://so1.111ttt.com:8282/2015/1/01m/09/94091756342.m4a?tflag=1489049232&pin=8987e726381c4b61cb6ea229eff2e109&ip=59.53.174.241#.mp3"
-},{
 	"title": "刚好遇见你 - 李玉刚",
 	"desp": " | 2:44",
 	"songUrl": "http://up.haoduoge.com:82/mp3/2017-04-13/1492049650.mp3"
@@ -147,9 +144,4 @@ mp3s = [{
 	"title": "周杰伦-告白气球",
 	"desp": " | 2:44",
 	"songUrl": "http://mp3.haoduoge.com/s/2017-03-11/1489232929.mp3"
-},{
-	"title": "走在冷风中",
-	"desp": "刘思涵 | 0:48",
-	"songUrl": "http://tyst.migu.cn/public/ringmaker01/n4/Product/2012/02/2012%E5%B9%B402%E6%9C%8802%E6%97%A5%E7%A7%8D%E5%AD%90%E9%9F%B3%E4%B9%90%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A510%E9%A6%96/%E5%BD%A9%E9%93%83/6_mp3-128kbps/%E8%B5%B0%E5%9C%A8%E5%86%B7%E9%A3%8E%E4%B8%AD-%E5%88%98%E6%80%9D%E6%B6%B5.mp3?channelid=08&msisdn=6cc346ea-9605-48df-a5f5-fa1b75aab77f",
-	"orderUrl": "http://m.kugou.com/v3/static/html/orderRing.html?id=c494b26921478bd7660dc687ab13b809"
 }]
