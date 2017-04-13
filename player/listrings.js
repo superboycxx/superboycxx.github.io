@@ -23,6 +23,22 @@ mp3s = [{
 	"desp": " | 7:22",
 	"songUrl": "http://www.cxx666.top/44.mp3"
 },{
+	"title": "陈雨晴 - Stitches",
+	"desp": " | 7:22",
+	"songUrl": "http://www.cxx666.top/Stitches.mp3"
+},{
+	"title": "陈雨晴 - 画中仙",
+	"desp": " | 7:22",
+	"songUrl": "http://www.cxx666.top/画中仙.mp3"
+},{
+	"title": "陈雨晴 - 红色高跟鞋",
+	"desp": " | 7:22",
+	"songUrl": "http://www.cxx666.top/红色高跟鞋.mp3"
+},{
+	"title": "陈雨晴 - Everytime",
+	"desp": " | 7:22",
+	"songUrl": "http://www.cxx666.top/33.mp3"
+},{
 	"title": "张杰 - 我想",
 	"desp": "萌萌 | 3:49",
 	"songUrl": "http://so1.111ttt.com:8282/2016/5/06m/12/199120843349.m4a?tflag=1489049259&pin=f2ec8ab20bd45d7d199696221e629dc7&ip=59.53.174.241#.mp3"
