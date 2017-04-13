@@ -54,6 +54,10 @@ mp3s = [{
 	"title": "张杰 - 一切都值得",
 	"desp": " | 3:50",
 	"songUrl": "http://www.cxx666.top/张杰 - 一切都值得 [mqms2].m4a"
+},,{
+	"title": "周杰伦 - 爱情废柴",
+	"desp": " | 3:50",
+	"songUrl": "http://www.cxx666.top/66.MP3"
 },{
 	"title": "我们不该这样的(北上广不相信眼泪电视剧片尾曲)",
 	"desp": "张赫宣 | 0:48",
