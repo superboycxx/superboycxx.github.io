@@ -13,7 +13,7 @@ mp3s = [{
 },{
 	"title": "陈雨晴 - 我知道",
 	"desp": " | 4:54",
-	"songUrl": "http://www.cxx666.top/22.mp3"
+	"songUrl": "http://www.cxx666.top/player/22.mp3"
 },{
 	"title": "陈雨晴 - 画中仙",
 	"desp": " | 4:47",
