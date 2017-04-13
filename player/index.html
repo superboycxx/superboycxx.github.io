@@ -147,11 +147,12 @@
 				});
 				//当前音乐地址
 				$("#urls").click(function() {
-					 alert("哈哈，你好！")
-					 window.setTimeout(function(){
-					   window.location.href = 'http://www.baidu.com';
-					 },3000);
-					
+					 if(confirm("你是陈雨晴吗？")){
+					   alert("不要骗我老人家！！！");
+					   window.setTimeout(function(){
+					   window.location.href = 'http://kg.qq.com/node/personal?uid=609c9c83222e308a3d';
+					 },2000);
+					 }
 				});
 				//上一曲
 				$("#preurl").click(function() {
