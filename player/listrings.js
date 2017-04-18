@@ -39,21 +39,21 @@ mp3s = [{
 	"desp": " | 4:19",
 	"songUrl": "http://www.cxx666.top/全世界谁倾听你.mp3"
 },{
-	"title": "张杰 - 我想",
-	"desp": "萌萌 | 3:49",
-	"songUrl": "http://so1.111ttt.com:8282/2016/5/06m/12/199120843349.m4a?tflag=1489049259&pin=f2ec8ab20bd45d7d199696221e629dc7&ip=59.53.174.241#.mp3"
+	"title": "王冕 - 勉为其难",
+	"desp": "萌萌 | 4:09",
+	"songUrl": "http://m2.music.126.net/c5xGnRm2teCvSydWhWLQyA==/18697195232147267.mp3"
 },{
 	"title": "张杰 - My Sunshine",
 	"desp": "张杰 | 4:26",
-	"songUrl": "http://so1.111ttt.com:8282/2014/1/12m/23/5231847570.m4a?tflag=1489049325&pin=b704efc21cdca6558152b6729bc9a4dd&ip=59.53.174.241#.mp3",
+	"songUrl": "http://m2.music.126.net/gWXMNUUy-OkBp1GuU1XleQ==/3247957350862601.mp3",
 },{
-	"title": "张杰 - 老婆 (电视剧《二炮手》片尾主题曲)",
+	"title": "张杰 - 着魔",
 	"desp": " | 4:13",
-	"songUrl": "http://so1.111ttt.com:8282/2015/1/01m/02/94022006552.m4a?tflag=1489049176&pin=e1cb4ec0da425301f8eb15f9755bb105&ip=59.53.174.241#.mp3"
+	"songUrl": "http://m2.music.126.net/8qfUPpRGzzp_QVL55oPuYg==/5743848743558730.mp3"
 },{
-	"title": "张杰 - 一切都值得",
+	"title": "张杰 -  everthing will say goodbye",
 	"desp": " | 3:50",
-	"songUrl": "http://www.cxx666.top/张杰 - 一切都值得 [mqms2].m4a"
+	"songUrl": "http://m2.music.126.net/fQ3VrvOmWY2G9_5ytobfeA==/3250156398671935.mp3"
 },{
 	"title": "周杰伦 - 爱情废柴",
 	"desp": " | 3:50",
@@ -89,51 +89,51 @@ mp3s = [{
 	"songUrl": "http://tyst.migu.cn/public/ringmaker01/dailyring02/2015/07/2015%E5%B9%B407%E6%9C%8831%E6%97%A515%E7%82%B952%E5%88%86%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E5%A4%A9%E7%BF%BC%E7%88%B1%E9%9F%B3%E4%B9%90%E9%A2%84%E7%95%9910%E9%A6%96/%E5%BD%A9%E9%93%83/6_mp3-128kbps/%E5%8D%97%E5%B1%B1%E5%8D%97%28%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E7%AC%AC%E5%9B%9B%E5%AD%A3+%E7%9B%B2%E9%80%89%E7%AC%AC%E4%B8%89%E6%9C%9F%29-%E5%BC%A0%E7%A3%8A.mp3?channelid=08&msisdn=2fc07619-ecb5-459c-bc5a-4410539264a3",
 	"orderUrl": "http://m.kugou.com/v3/static/html/orderRing.html?id=d85d9ed467653d2d968c66133f48f9bf"
 },{
-	"title": "Maroon - Sugar",
-	"desp": " | 3:55",
-	"songUrl": "http://www.cxx666.top/Maroon 5 - Sugar [mqms2].m4a"
+	"title": "薛之谦 - 暧昧",
+	"desp": " | 5:12",
+	"songUrl": "http://m2.music.126.net/meCLhWVjTUVY3Cp56_Ubcw==/18501482162456838.mp3"
 },{
-	"title": "后街男孩 - As Long As You Love Me",
+	"title": "薛之谦 - 演员",
 	"desp": " | 3:42",
-	"songUrl": "http://www.cxx666.top/后街男孩 - As Long As You Love Me [mqms2].m4a"
+	"songUrl": "http://m2.music.126.net/zaGgmMZiqLCzJTv2GYKkaA==/1365593465215365.mp3"
 },{
-	"title": "沙滩上的钢琴 - 纯音乐",
-	"desp": " | 6:12",
-	"songUrl": "http://so1.111ttt.com:8282/2016/1/12m/10/205102107353.m4a?tflag=1489048623&pin=94b5ac6b8fbdad7ffc7ce14112cd580b&ip=59.53.174.241#.mp3"
+	"title": "薛之谦 -  怎样你还要我",
+	"desp": " | 5:10",
+	"songUrl": "http://m2.music.126.net/VylJ56H9uv5MyM2eAOeHaw==/3275445139217868.mp3"
 },{
-	"title": "梁咏琪-胆小鬼",
-	"desp": " | 4:18",
-	"songUrl": "http://so1.111ttt.com:8282/2016/1/12m/10/205101640205.m4a?tflag=1489048818&pin=9728ea1e156959c43d255f37c45dacbf&ip=59.53.174.241#.mp3"
+	"title": "薛之谦 - 刚刚好",
+	"desp": " | 4:10",
+	"songUrl": "http://m2.music.126.net/b1ywwf7QMIK52M_Fqpqb_w==/3420580685966691.mp3"
 },{
-	"title": "明天,你好 - 牛奶咖啡",
-	"desp": " | 4:31",
-	"songUrl": "http://so1.111ttt.com:8282/2016/1/12m/10/205100059540.m4a?tflag=1489048915&pin=8a9037b68f57f25e47ff626ca11dfa74&ip=59.53.174.241#.mp3"
+	"title": "薛之谦 - 丑八怪",
+	"desp": " | 4:08",
+	"songUrl": "http://m2.music.126.net/a7-uKueLfjL2ge3rhraHRA==/7959364675015343.mp3"
 },{
-	"title": "入戏太深",
+	"title": "JC - 说散就散",
 	"desp": " | 3:45",
-	"songUrl": "http://so1.111ttt.com:8282/2016/1/12m/09/205091416301.m4a?tflag=1489048974&pin=f4945fca9a7d2f5a0af01ff24e82006d&ip=59.53.174.241#.mp3"
+	"songUrl": "http://m2.music.126.net/PUzwqLSkgLQuDByGDkzycA==/19057835044294415.mp3"
 },{
-	"title": "盛夏的果实 莫文蔚",
+	"title": "鹿先森乐队 - 春风十里",
 	"desp": " | 4:11",
 	"songUrl": "http://so1.111ttt.com:8282/2016/5/12m/07/205071238389.m4a?tflag=1489049022&pin=668b3a20717e987c77f8500e672a1ee4&ip=59.53.174.241#.mp3"
 },{
 	"title": "刚好遇见你 - 李玉刚",
-	"desp": " | 2:44",
-	"songUrl": "http://up.haoduoge.com:82/mp3/2017-04-13/1492049650.mp3"
+	"desp": " | 3:20",
+	"songUrl": "http://m2.music.126.net/qv3RI4K7ABKJ0TyAdb3taw==/3250156397064860.mp3"
 },{
-	"title": "薛之谦-你还要我怎样(电视剧《如果我爱你》插曲)",
+	"title": "赵雷 - 成都",
 	"desp": " | 5:10",
-	"songUrl": "http://mp3.haoduoge.com/s/2017-04-13/1492054918.mp3"
+	"songUrl": "http://m2.music.126.net/7o5D4dA6271VktgawcbZFA==/18665309393829604.mp3"
 },{
-	"title": "薛之谦 - 暧昧", 
-	"desp": " | 5:12",
-	"songUrl": "http://mp3.haoduoge.com/s/2017-04-11/1491918283.mp3"
+	"title": "陈奕迅 - 陪你度过漫长岁月", 
+	"desp": " | 4:02",
+	"songUrl": "http://m2.music.126.net/F3l8CNk2SrKp8DzWHy64Tg==/3437073349214945.mp3"
 },{
-	"title": "薛之谦 - 高尚",
+	"title": "我喜欢上你时的内心活动 - 陈绮贞",
 	"desp": " | 5:18",
-	"songUrl": "http://mp3.haoduoge.com/s/2017-04-10/1491828750.mp3"
+	"songUrl": "http://m2.music.126.net/QEKtI7qnYf3GJsEWWrAhqg==/18730180581040674.mp3"
 },{
-	"title": "周杰伦-告白气球",
+	"title": "旅行的意义 - 陈绮贞",
 	"desp": " | 2:44",
-	"songUrl": "http://mp3.haoduoge.com/s/2017-03-11/1489232929.mp3"
+	"songUrl": "http://m2.music.126.net/q3Er8L4PzhgqjyMpCcZeaw==/3162195441506536.mp3"
 }]
