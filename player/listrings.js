@@ -5,39 +5,39 @@ mp3s = [{
 },{
 	"title": "陈雨晴 - 天真",
 	"desp": " | 4:07",
-	"songUrl": "http://www.cxx666.top/tz.mp3"
+	"songUrl": "http://zy1.ys168.com/zy/b_old/ck/show_sp.aspx?wdz=http://ys-m.ys168.com/577954147/TJfTkNs6K2I4W2K78NHV/%E5%A4%A9%E7%9C%9F.mp3"
 },{
 	"title": "陈雨晴 - 凉凉",
 	"desp": " | 5:33",
-	"songUrl": "http://www.cxx666.top/凉凉.mp3"
+	"songUrl": "http://zy1.ys168.com/zy/b_old/ck/show_sp.aspx?wdz=http://ys-f.ys168.com/577954123/SIhWfKu6K2I4W2K78NJ7/%E5%87%89%E5%87%89.mp3"
 },{
 	"title": "陈雨晴 - 我知道",
 	"desp": " | 4:54",
-	"songUrl": "http://www.cxx666.top/player/22.mp3"
+	"songUrl": "http://zy1.ys168.com/zy/b_old/ck/show_sp.aspx?wdz=http://ys-f.ys168.com/577954134/l6K2I4W2K77NJ6UHjSgO/-1913313677.mp3"
 },{
 	"title": "陈雨晴 - 画中仙",
 	"desp": " | 4:47",
-	"songUrl": "http://www.cxx666.top/画中仙.mp3"
+	"songUrl": "http://zy1.ys168.com/zy/b_old/ck/show_sp.aspx?wdz=http://ys-i.ys168.com/577954145/TJfTkNp6K2I4W2K78NGJ/%E7%94%BB%E4%B8%AD%E4%BB%99.mp3"
 },{
 	"title": "陈雨晴 - 星月神话",
 	"desp": " | 4:07",
-	"songUrl": "http://www.cxx666.top/44.mp3"
+	"songUrl": "http://zy1.ys168.com/zy/b_old/ck/show_sp.aspx?wdz=http://ys-f.ys168.com/577954130/l6K2I4W2K77NJ5UHjSgO/105087067.mp3"
 },{
 	"title": "陈雨晴 - Stitches",
 	"desp": " | 3:27",
-	"songUrl": "http://www.cxx666.top/Stitches.mp3"
+	"songUrl": "http://zy1.ys168.com/zy/b_old/ck/show_sp.aspx?wdz=http://ys-l.ys168.com/577954139/UHjSgOs6K2I4W2K7P63/Stitches.mp3"
 },{
 	"title": "陈雨晴 - 红色高跟鞋",
 	"desp": " | 3:26",
-	"songUrl": "http://www.cxx666.top/红色高跟鞋.mp3"
+	"songUrl": "http://zy1.ys168.com/zy/b_old/ck/show_sp.aspx?wdz=http://ys-e.ys168.com/577954139/UHjSgOt6K2I4W2K7PLG/%E7%BA%A2%E8%89%B2%E9%AB%98%E8%B7%9F%E9%9E%8B.mp3"
 },{
 	"title": "陈雨晴 - 幸福的终点",
 	"desp": " | 4:13",
-	"songUrl": "http://www.cxx666.top/幸福的终点.mp3"
+	"songUrl": "http://zy1.ys168.com/zy/b_old/ck/show_sp.aspx?wdz=http://ys-g.ys168.com/577954152/o6K2I4W2K7KN4LVFgXjL/%E5%B9%B8%E7%A6%8F%E7%9A%84%E7%BB%88%E7%82%B9.mp3"
 },{
 	"title": "陈雨晴 - 全世界谁倾听你",
 	"desp": " | 4:19",
-	"songUrl": "http://www.cxx666.top/全世界谁倾听你.mp3"
+	"songUrl": "http://zy1.ys168.com/zy/b_old/ck/show_sp.aspx?wdz=http://ys-f.ys168.com/577954129/SIhWfKu6K2I4W2K78NJI/%E5%85%A8%E4%B8%96%E7%95%8C%E8%B0%81%E5%80%BE%E5%90%AC%E4%BD%A0.mp3"
 },{
 	"title": "王冕 - 勉为其难",
 	"desp": "萌萌 | 4:09",
