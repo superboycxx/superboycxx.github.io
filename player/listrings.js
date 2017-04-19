@@ -1,7 +1,7 @@
 mp3s = [{
 	"title": "陈雨晴 - Everytime",
 	"desp": "lala | 3:08",
-	"songUrl": "http://www.cxx666.top/33.mp3"
+	"songUrl": "http://zy1.ys168.com/zy/b_old/ck/show_sp.aspx?wdz=http://ys-i.ys168.com/577954135/UHjSgOp6K2I4W2K78NGI/-1944360218.mp3"
 },{
 	"title": "陈雨晴 - 天真",
 	"desp": " | 4:07",
