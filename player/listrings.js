@@ -1,44 +1,4 @@
 mp3s = [{
-	"title": "陈雨晴 - Everytime",
-	"desp": "lala | 3:08",
-	"songUrl": "http://www.cxx666.top/33.mp3"
-},{
-	"title": "陈雨晴 - 天真",
-	"desp": " | 4:07",
-	"songUrl": "http://www.cxx666.top/tz.mp3"
-},{
-	"title": "陈雨晴 - 凉凉",
-	"desp": " | 5:33",
-	"songUrl": "http://www.cxx666.top/凉凉.mp3"
-},{
-	"title": "陈雨晴 - 我知道",
-	"desp": " | 4:54",
-	"songUrl": "http://www.cxx666.top/player/22.mp3"
-},{
-	"title": "陈雨晴 - 画中仙",
-	"desp": " | 4:47",
-	"songUrl": "http://www.cxx666.top/画中仙.mp3"
-},{
-	"title": "陈雨晴 - 星月神话",
-	"desp": " | 4:07",
-	"songUrl": "http://www.cxx666.top/44.mp3"
-},{
-	"title": "陈雨晴 - Stitches",
-	"desp": " | 3:27",
-	"songUrl": "http://www.cxx666.top/Stitches.mp3"
-},{
-	"title": "陈雨晴 - 红色高跟鞋",
-	"desp": " | 3:26",
-	"songUrl": "http://www.cxx666.top/红色高跟鞋.mp3"
-},{
-	"title": "陈雨晴 - 幸福的终点",
-	"desp": " | 4:13",
-	"songUrl": "http://www.cxx666.top/幸福的终点.mp3"
-},{
-	"title": "陈雨晴 - 全世界谁倾听你",
-	"desp": " | 4:19",
-	"songUrl": "http://www.cxx666.top/全世界谁倾听你.mp3"
-},{
 	"title": "王冕 - 勉为其难",
 	"desp": "萌萌 | 4:09",
 	"songUrl": "http://m2.music.126.net/c5xGnRm2teCvSydWhWLQyA==/18697195232147267.mp3"
